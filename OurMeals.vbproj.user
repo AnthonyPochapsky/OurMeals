@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddNewInventoryItemForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddToGroceryListForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConfirmDeletionForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConfirmInventoryItemDeletionForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConfirmListItemDeletionForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConfirmPurchaseForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConfirmRoutineForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditListForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EnterShoppingListNameForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrontPage.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GroceryListManagementMenu.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="InventoryMenu.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="InventorySupply.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ItineraryContentsMenu.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MainMenu.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ModifyInventorySupplyForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="My Project\AdjustSpecificListForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="My Project\GroceryListMenu.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="RecipeMenu.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="recipeSelectionForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SalesMenu.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="setNameForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SetSplitListName.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
